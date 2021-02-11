@@ -1,5 +1,11 @@
 # masterdatascience
 
+Link to major source of info:
+
+* www.python.com
+* www.jupyter.org
+
+
 Lezione 1
 
 * Introduzione a Python 3
