@@ -2,8 +2,20 @@
 
 Link to major source of info:
 
-* www.python.com
+* www.python.org 
 * www.jupyter.org
+* https://www.anaconda.com/products/individual
+* https://brew.sh/index_it  (OSX)
+
+Editors
+
+* https://code.visualstudio.com/
+* https://www.spyder-ide.org/
+* https://notepad-plus-plus.org/
+
+Windows:
+
+ * (Terminal) https://devblogs.microsoft.com/commandline/introducing-windows-terminal/
 
 
 Lezione 1
