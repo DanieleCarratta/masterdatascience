@@ -22,7 +22,9 @@ Windows:
 Python Scientific Stack:
 
 * https://numpy.org/
-* 
+* https://pandas.pydata.org/
+* https://matplotlib.org/
+* https://seaborn.pydata.org/
 
 
 Lezione 1
