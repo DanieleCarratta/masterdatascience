@@ -16,6 +16,13 @@ Editors
 Windows:
 
  * (Terminal) https://devblogs.microsoft.com/commandline/introducing-windows-terminal/
+ * (Anaconda & Terminal) https://www.pugetsystems.com/labs/hpc/Note-Adding-Anaconda-PowerShell-to-Windows-Terminal-1907/
+ 
+
+Python Scientific Stack:
+
+* https://numpy.org/
+* 
 
 
 Lezione 1
